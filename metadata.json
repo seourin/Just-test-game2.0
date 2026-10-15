@@ -1,0 +1,6 @@
+{
+  "name": "선형합동법 게임 확률 시뮬레이터",
+  "description": "선형 합동법(LCG) 기반의 게임 확률 시스템 - 가챠 뽑기, 장비 강화, 전투 크리티컬 및 시드 분석과 2D 격자 시각화",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
